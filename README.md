@@ -1,10 +1,10 @@
 # FutureMakers2021
 
-## Tiffany Kuang
-## July 10, 2021
-## Team 8
+### Tiffany Kuang
+### July 10, 2021
+### Team 8
 
-# Reflection Responses
+## Reflection Responses
 
 Day 3
 1. Supervised learning is when the machine receives both the data points and labels, and learns from feedback. There are two main types of outcomes in supervised learning: regression and classification. In unsupervised learning, the machine only receives data points and is expected to learn from patterns, such as clustering, rather than feedback.
