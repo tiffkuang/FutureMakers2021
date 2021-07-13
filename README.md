@@ -3,6 +3,7 @@
 ## Tiffany Kuang
 ## July 10, 2021
 ## Team 8
+
 # Reflection Responses
 
 Day 3
